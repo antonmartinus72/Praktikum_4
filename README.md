@@ -10,6 +10,7 @@ t (Tidak), maka program akan menampilkan daftar datanya.
 • Buat flowchart dan penjelasan programnya pada README.md. • Commit dan push repository ke github.
 
 **Flowchart :**
+
 ![Flowchart](https://github.com/antonmartinus72/Praktikum_4/blob/master/img/Flowchart.png)
 
 **Kode :**
@@ -72,6 +73,7 @@ Selanjutnya list akan di print di dalam perulangan for.
 Perulangan `for x in daftar:` akan mengambil list dari setiap perulangan variabel `daftar` yang terjadi dan akan disimpan ke dalam variabel `x`, lalu `x` akan di format untuk meletakan data yang disimpan ke dalam placeholder `{}`yang terdapat pada string. `.2f` dalam string digunakan untuk menampilkan 2 angka float.
 
 ### Output yang didapat :
+
 ![Output](https://github.com/antonmartinus72/Praktikum_4/blob/master/img/Output.PNG)
 
 
