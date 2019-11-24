@@ -7,7 +7,8 @@ apabila jawaban
 t (Tidak), maka program akan menampilkan daftar datanya. 
 - Nilai Akhir diambil dari perhitungan 3 komponen nilai 
 (tugas: 30%, uts: 35%, uas: 35%)
-- Buat flowchart dan penjelasan programnya pada README.md. • Commit dan push repository ke github.
+- Buat flowchart dan penjelasan programnya pada README.md. 
+- Commit dan push repository ke github.
 
 **Flowchart :**
 
