@@ -10,7 +10,7 @@ t (Tidak), maka program akan menampilkan daftar datanya.
 • Buat flowchart dan penjelasan programnya pada README.md. • Commit dan push repository ke github.
 
 **Flowchart :**
-![Flowchart](Flowchart)
+![Flowchart](https://github.com/antonmartinus72/Praktikum_4/blob/master/img/Flowchart.png)
 
 **Kode :**
 
